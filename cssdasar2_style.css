@@ -21,6 +21,7 @@ h3 {
     margin-left: 5.3%;
 }
 
+/*gambar*/
 img {
     height: 200px;
     width: 200px;
@@ -28,6 +29,7 @@ img {
     float: left;
 }
 
+/*paragraf*/
 p {
     padding-bottom: 10%;
     padding-right: 10px;
@@ -41,6 +43,7 @@ p {
     background-color: rgb(83, 83, 83);
     color: white;
 }
+
 footer{
     background-color: white;
     color: black;
