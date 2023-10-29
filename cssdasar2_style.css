@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: helvetica;
+
+}
+
+h1 {
+    text-align: center;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: thick;
+}
+
+h3 {
+    outline-style: solid;
+    outline-color: white;
+    outline-width: thick;
+    padding-left: 10px;
+    margin-right: 74.8%;
+    margin-left: 5.3%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    float: left;
+}
+
+p {
+    padding-bottom: 10%;
+    padding-right: 10px;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 5.3%;
+    text-align: justify;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: thick;
+    background-color: rgb(83, 83, 83);
+    color: white;
+}
+footer{
+    background-color: white;
+    color: black;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
